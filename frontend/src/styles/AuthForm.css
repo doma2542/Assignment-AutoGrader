@@ -1,0 +1,120 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f2f5;
+}
+
+.form-box {
+  background-color: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  min-width: 320px;
+}
+
+.form-box h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form-box input,
+.form-box select {
+  width: 100%;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+
+.form-box button {
+  /* removed width: 100%; */
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.form-box button:hover{
+    background-color: #0455aa;
+}
+
+
+.form-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.form-footer button {
+  width: auto;       /* override to auto */
+  flex-shrink: 0;
+  padding: 10px 20px;
+  font-weight: bold;
+}
+
+.register-link {
+  font-size: 0.9rem;
+}
+.register-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff; /* a green button, change color if you want */
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+  user-select: none;
+  transition: background-color 0.3s ease;
+}
+
+.register-button:hover {
+  background-color: #0455aa; /* darker green on hover */
+}
+/* Buttons container */
+.form-footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+/* Back button styling */
+.back-button {
+  padding: 10px 20px;
+  background-color: #6c757d; /* gray */
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.back-button:hover {
+  background-color: #565e64; /* darker gray on hover */
+}
+
+/* Submit button styling */
+.submit-button {
+  padding: 10px 20px;
+  background-color: #007bff; /* blue */
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.submit-button:hover {
+  background-color: #0455aa; /* darker blue on hover */
+}

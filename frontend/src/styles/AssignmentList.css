@@ -1,0 +1,30 @@
+.assignment-container {
+  display: flex;
+  gap: 30px;
+  padding: 20px;
+}
+
+.user-info {
+  flex: 1;
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  min-width: 250px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+}
+
+.assignment-list {
+  flex: 3;
+}
+
+.assignment-card {
+  background: white;
+  padding: 15px 20px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.assignment-card h3 {
+  margin-top: 0;
+}
