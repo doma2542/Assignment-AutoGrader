@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+/* ✅ ADDED: Tutor Navigation Styles */
+.tutor-nav {
+  background-color: #f0f0f0;
+  padding: 10px;
+  margin: 20px;
+  text-align: left;
+}
+
+.nav-link {
+  margin-right: 20px;
+  text-decoration: none;
+  color: #0077cc;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
