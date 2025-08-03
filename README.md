@@ -85,15 +85,9 @@ Seeing Submissions
 Submitting File
 ![image](https://github.com/Tanmay7404/Overnight_Hackathon_CSEA/assets/118533285/0e16e9c6-4344-4545-9d40-3588199dfb99)
 
+## Contributors
 
-Demo Video
-https://drive.google.com/file/d/10Bll1qnmXJjvLb-YAowjGv4tkEGjCdl2/view
-
-Impact
-Potential Benefit: Streamlines assignment submissions, plagiarism detection, and grading processes
-Feasibility ofg Implementation: Realistic to implement within the institute's infrastructure and resources
-Demo Video
-
-
-GitHub Repository
-https://github.com/Tanmay7404/Overnight_Hackathon_CSEA/
+1. Choudary Srinivas Srikar – 230101032  
+2. Doma Gowtham Reddy       – 230101038  
+3. Manideep Ram Gunje       – 230101044  
+4. Sankiti Aishwarya        – 230102086  
